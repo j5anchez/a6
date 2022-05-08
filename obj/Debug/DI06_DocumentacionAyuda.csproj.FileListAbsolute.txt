@@ -1,0 +1,12 @@
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\bin\Debug\DI06_DocumentacionAyuda.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\bin\Debug\DI06_DocumentacionAyuda.exe
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\bin\Debug\DI06_DocumentacionAyuda.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.csproj.SuggestedBindingRedirects.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.exe
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\proyectos\DI06_DocumentacionAyuda\DI06_DocumentacionAyuda\obj\Debug\DI06_DocumentacionAyuda.PopUp.resources
